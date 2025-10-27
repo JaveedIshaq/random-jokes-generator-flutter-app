@@ -1,0 +1,5 @@
+package com.farabicoder.randomjokegenerator.mobile
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()
